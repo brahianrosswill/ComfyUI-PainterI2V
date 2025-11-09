@@ -11,8 +11,7 @@ Wan2.2 图生视频增强节点，专门针对4步LoRA（如 lightx2v）的慢�
 搜索 PainterI2V
 点击安装
 方法2：手动安装
-bash
-复制
+
 # 进入ComfyUI的custom_nodes目录
 cd ComfyUI/custom_nodes
 
@@ -53,14 +52,7 @@ motion_amplitude: 1.15（推荐起始值）
 运动过快：每次减少 motion_amplitude 0.05
 仍然偏慢：可适当增大到1.4
 亮度异常：确保 motion_amplitude ≥ 1.0（不建议<1.0）
-🤝 参与贡献
-欢迎提交Issue和PR！请提供：
-ComfyUI版本号
-LoRA模型名称
-示例工作流（JSON）
-输入/输出样例
-📄 许可证
-MIT License
+
 🙏 致谢
 Wan2.2 团队: 提供惊人的视频生成模型
 ComfyUI 社区: 灵活的节点系统
@@ -130,13 +122,11 @@ For Best Results: Combine with strong motion prompts
 If Motion Too Fast: Decrease motion_amplitude by 0.05 increments
 If Still Slow: Increase motion_amplitude up to 1.4 max
 Brightness Issues: Ensure motion_amplitude ≥ 1.0 (values < 1.0 not recommended)
-🤝 Contributing
-Issues and PRs are welcome! Please provide:
-ComfyUI version
-LoRA model name
+
 Example workflow (JSON)
 Sample input/output
 📄 License
 MIT License
+
 
 
