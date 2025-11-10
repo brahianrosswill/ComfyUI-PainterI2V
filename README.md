@@ -27,7 +27,7 @@ cd ComfyUI/custom_nodes
 
 # 克隆仓库
 git clone https://github.com/princepainter/ComfyUI-Painterl2V.git
-
+```
 # 重启ComfyUI
 
 ## 💡 使用方法
@@ -79,9 +79,9 @@ git clone https://github.com/princepainter/ComfyUI-Painterl2V.git
 
 - Wan2.2 团队：提供惊人的视频生成模型  
 - ComfyUI 社区：灵活的节点系统  
-## 🙏如果这个项目对你有帮助，请给颗星 ⭐ 支持一下！
+🙏如果这个项目对你有帮助，请给颗星 ⭐️ 支持一下！
 
-# ComfyUI-Painterl2V
+- # ComfyUI-Painterl2V
 
 This node is created by Douyin creator: 绘画小子
 
@@ -110,8 +110,7 @@ cd ComfyUI/custom_nodes
 
 # Clone the repository
 git clone https://github.com/princepainter/ComfyUI-Painterl2V.git
-
-# Restart ComfyUI
+```
 ## 💡 Usage Guide
 
 ### Replace the Node
@@ -166,3 +165,4 @@ In your workflow, replace `WanImageToVideo` with `Painterl2V`.
 <div align="center">
 If you find this project helpful, please give it a star ⭐ to show your support!
 </div>
+# Restart ComfyUI
